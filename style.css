@@ -2,5 +2,11 @@ header{
     padding-top: 30px;
     text-align: center;
     font-size: 55px;
+}
+
+body{
+    background-image: linear-gradient(rgb(0, 255, 0), rgb(0, 255, 255));
+    background-repeat: no-repeat;
+    background-size: auto;
     font-family: 'Inclusive Sans', sans-serif;
 }
