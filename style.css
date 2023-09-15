@@ -1,7 +1,18 @@
 header{
     padding-top: 30px;
     text-align: center;
+}
+
+h1{
     font-size: 55px;
+}
+
+p{
+    font-size: 33px;
+}
+
+#sql{
+
 }
 
 body{
@@ -9,4 +20,19 @@ body{
     background-repeat: no-repeat;
     background-size: auto;
     font-family: 'Inclusive Sans', sans-serif;
+}
+
+.socials{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+u{
+    text-decoration-thickness: 2px;
+}
+
+footer{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
 }
