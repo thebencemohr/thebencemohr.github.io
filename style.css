@@ -1,15 +1,5 @@
 header{
     padding-top: 30px;
     text-align: center;
-<<<<<<< Updated upstream
-    font-size: 55px;
-}
-
-body{
-    background-image: linear-gradient(rgb(0, 255, 0), rgb(0, 255, 255));
-    background-repeat: no-repeat;
-    background-size: auto;
-=======
->>>>>>> Stashed changes
     font-family: 'Inclusive Sans', sans-serif;
 }
