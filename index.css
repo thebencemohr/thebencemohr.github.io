@@ -1,0 +1,79 @@
+body{
+    background-image: linear-gradient(to right, rgb(0, 255, 0), rgb(0, 255, 255));
+    background-repeat: no-repeat;
+    background-size: auto;
+    font-family: 'Inclusive Sans', sans-serif;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+}
+
+header{
+    padding-top: 30px;
+}
+
+footer{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+h1{
+    font-size: 55px;
+}
+
+h2{
+    font-size: 44px;
+}
+
+h3{
+    font-size: 33px;
+}
+p{
+    font-size: 22px;
+}
+
+.post{
+    border-style: solid;
+    border-color: black;
+    border-radius: 50px;
+    border-width: 1px;
+}
+
+.socials{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+u{
+    text-decoration-thickness: 9%;
+}
+
+hr{
+    border-color: black;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.back{
+    display: flex;
+}
+
+table{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+.end{
+    font-size: 11px;
+}
