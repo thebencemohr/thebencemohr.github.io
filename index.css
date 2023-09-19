@@ -1,5 +1,5 @@
 body{
-    background-image: linear-gradient(to right, rgb(0, 255, 0), rgb(0, 255, 255));
+    background-image: linear-gradient(to bottom, rgb(82, 82, 82), rgb(0, 0, 0));
     background-repeat: no-repeat;
     background-size: auto;
     font-family: 'Inclusive Sans', sans-serif;
@@ -7,6 +7,7 @@ body{
     margin-right: 10%;
     text-align: center;
     min-height: 930px;
+    color: white;
 }
 
 header{
@@ -15,7 +16,7 @@ header{
 
 footer{
     padding-top: 30px;
-    padding-bottom: 30px;
+    padding-bottom: 5px;
 }
 
 h1{
@@ -35,7 +36,7 @@ p{
 
 .post{
     border-style: solid;
-    border-color: black;
+    border-color: white;
     border-radius: 50px;
     border-width: 1px;
 }
@@ -50,7 +51,7 @@ u{
 }
 
 hr{
-    border-color: black;
+    border-color: white;
 }
 
 a{
@@ -69,7 +70,7 @@ table{
 }
 
 table, th, td{
-    border: 1px solid black;
+    border: 1px solid white;
     border-collapse: collapse;
     padding-top: 6px;
     padding-bottom: 6px;
@@ -77,4 +78,13 @@ table, th, td{
 
 .end{
     font-size: 11px;
+}
+
+.socials-box{
+    background-color: white;
+    width: fit-content;
+    margin: auto;
+    padding: 8px;
+    border-radius: 30px;
+    color: black;
 }
